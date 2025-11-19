@@ -8,9 +8,6 @@ Build and train different ML models.
 Evaluate model performance using accuracy and metrics.
 Save and deploy the final model.
 
-Google Colab Notebook
-View and run the complete project here: Open in Google Colab
-
 Dataset Description
 The dataset contains 150 samples with 4 input features and 1 target label.
 Feature
